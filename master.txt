@@ -1,0 +1,6 @@
+this is my first file 
+ my user name =srk0124
+ my email =rkgdl0124@gmail.com
+ this is config above user and email. 1 user (git config --global user.name "   " ) 
+ this is config above user and email. 2 email (git config --global user.email ______)
+ 
