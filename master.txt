@@ -3,4 +3,7 @@ this is my first file
  my email =rkgdl0124@gmail.com
  this is config above user and email. 1 user (git config --global user.name "   " ) 
  this is config above user and email. 2 email (git config --global user.email ______)
+
+
+my mobile number is =7989227310   &&& 9505771796
  
